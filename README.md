@@ -7,7 +7,7 @@ Il y a 2 versions de ce challenge, une version un peu corsée, de guessing diron
 
 Pour commencer, il faut faut le coin ci dessous. Il contient tout ce qu'il faut pour débuter et même d'autres informations pour au moins une autre ....
 
-&![alt text](photo/coin.png)
+![alt text](photo/coin.png)
 
 il contient 
 - de quoi commencer le challenge et d'aller plus loin
@@ -26,7 +26,7 @@ quelques rêgles/infos
 - ce qui peut paraitre comme des anomalies ne l'est pas forcement ( il y a forcement des erreurs mais quand c'est trop gros...)
 - un petit write up est attendu. Pas obligatoire mais c'est toujours sympa ( j'ai en mémoire un write up du SSTIC qui disait j'ai plié la première étape, ma mère m'a appelé pour manger, puis j'ai plié le reste dans l'après midi ) 
 - le challenge sera accessible pendant 1 an. 
-- pour les personnes qui le souhaitent, un suivi du Challenge se tiendra sur un ctfd à l'adresse gt-bidouille.fun:55555. Pensez à vous créer un compte sans ne mettre aucune information autre que votre pseudo ou votre prénom. En mail, mettez un truc random, de toutes les façons il n'y a pas de serveur de mail derrière
+- pour les personnes qui le souhaitent, un suivi du Challenge se tiendra sur un ctfd à l'adresse http://gt-bidouille.fun:55555. Pensez à vous créer un compte sans ne mettre aucune information autre que votre pseudo ou votre prénom. En mail, mettez un truc random, de toutes les façons il n'y a pas de serveur de mail derrière
 - le challenge commencera le 8 septembre, le temps de diffuser quelques coins !
 
 
