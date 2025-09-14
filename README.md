@@ -32,6 +32,6 @@ quelques rêgles/infos
 
 Le Die en question  (Sa taille est de 2,5mm x 3,2mm). Le datasheet est sur ce site 
 
-![alt text](photo/s-l1600-1)
+![alt text](photo/s-l1600-1.jpg)
 
 Si vous voulez en savoir un peu plus sur les dies => https://fr.wikipedia.org/wiki/Die_(circuit_int%C3%A9gr%C3%A9)
